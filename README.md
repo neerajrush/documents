@@ -1,6 +1,6 @@
 # documents
-multiple docs about TOI
-
+* multiple docs about TOI
+```
 echo "# documents" >> README.md
 git init
 git add README.md
@@ -12,3 +12,4 @@ git push -u origin master
 
 git remote add origin https://github.com/neerajrush/documents.git
 git push -u origin master
+```
